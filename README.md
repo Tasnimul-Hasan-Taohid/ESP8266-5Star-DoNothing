@@ -1,8 +1,8 @@
 # 🍫 5 Star Do Nothing Device
 
-Inspired by Cadbury 5 Star's legendary "Do Nothing" philosophy, this is a physical button that does exactly nothing — and tells you about it.
+Inspired by Cadbury 5 Star's legendary "Do Nothing" philosophy, this is a physical button that does exactly nothing and tells you about it.
 
-You press the button. The OLED says something. Nothing happens. You press it again. This continues indefinitely. Your press count is saved to EEPROM so it survives power-offs. There are milestone messages at 1, 5, 10, 25, 50, 100, 200, and 500 presses in case you really commit to the bit.
+If you press the button. The OLED says something. Nothing happens. Then you press it again. This continues indefinitely. Your press count is saved to EEPROM so it survives power-offs. There are milestone messages at 1, 5, 10, 25, 50, 100, 200, and 500 presses in case you really commit to the bit.
 
 This is a useless device. That is the point. 5 Star would be proud.
 
